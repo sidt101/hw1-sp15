@@ -11,7 +11,7 @@ Google is also your best friend.  Also there is a few questions on the form to a
   When you first run the rails server command we get the general rails page.  However if we look
   around our app there is already a view for the static page that corresponds to home (app/views/pages/home.html.erb).
   Our first job is to make that our home page!  If you get stuck refer to the lecture slides
-  or look at Rails Routing guide.  Remember what we need to do to get from the request to getting back the view
+  or look at Rails Routing guide. Remember what we need to do to get from the request to getting back the view
   to our browser.
 
 ## Updating the Landing Page:
