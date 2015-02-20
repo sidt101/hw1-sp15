@@ -173,6 +173,6 @@ p.copyright {
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
-  background-image: url(http://assets.worldwildlife.org/photos/907/images/hero_full/sumatran-tiger-hero_92514619.jpg?1345581518);
+  background-image: url(my_image.jpg);
   background-size: cover;
 }
